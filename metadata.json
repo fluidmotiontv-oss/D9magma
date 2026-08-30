@@ -1,0 +1,8 @@
+{
+  "name": "Dragon 9 Management Suite",
+  "description": "An automated Linux bootstrap and management suite terminal simulator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
